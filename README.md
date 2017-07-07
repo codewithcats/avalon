@@ -1,4 +1,4 @@
-# Avalonia
+# Avalonia [![Build Status](https://travis-ci.org/codewithcats/avalon.svg?branch=master)](https://travis-ci.org/codewithcats/avalon)
 
 ## Development
 
